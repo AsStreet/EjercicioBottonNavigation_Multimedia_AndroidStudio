@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/asirFragment"
+        android:icon="@mipmap/ic_asir_foreground"
+        android:title="ASIR" />
+
+    <item
+        android:id="@+id/damFragment"
+        android:icon="@mipmap/ic_dam_foreground"
+        android:title="DAM" />
+
+    <item
+        android:id="@+id/dawFragment"
+        android:icon="@mipmap/ic_daw_foreground"
+        android:title="DAW" />
+
+    <item
+        android:id="@+id/acercaFragment"
+        android:icon="@mipmap/ic_acerca_foreground"
+        android:title="Acerca de" />
+
+</menu>

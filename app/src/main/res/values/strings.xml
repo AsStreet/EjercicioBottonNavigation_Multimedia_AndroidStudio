@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">EjercicioBottonNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parrafo_asir">
+        Qué es Asir<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tortor augue, convallis
+        interdum nisl vel, commodo ornare leo. Maecenas iaculis vestibulum dui ac faucibus. Maecenas
+        convallis nibh a elit rhoncus placerat. Donec bibendum justo non turpis luctus tincidunt.
+        Mauris venenatis leo non mi elementum finibus. Aenean tincidunt ante ac tortor dictum auctor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non cursus diam. Nulla sit
+        amet tortor gravida, ullamcorper nibh sed, vehicula erat. Etiam tincidunt quis tortor at
+        ultrices.<br/>
+        Quisque vel nulla at erat congue pellentesque eu eu sem. Curabitur et blandit lacus.
+        Suspendisse at nisi porttitor, semper nulla vel, vestibulum lorem. Nunc in pulvinar est.
+        Aliquam erat volutpat. Donec faucibus lobortis iaculis. Donec viverra fermentum sapien at
+        accumsan. Quisque pretium enim venenatis, interdum risus ut, eleifend neque. Nam vulputate
+        iaculis elit. Pellentesque commodo leo libero, ac accumsan magna facilisis a.<br/>
+        Sed ac leo nisi. Curabitur condimentum ligula in risus efficitur facilisis. Vestibulum in
+        ante velit. Pellentesque id vestibulum tellus. Fusce suscipit, sem rutrum efficitur scelerisque,
+        quam felis venenatis dolor, a pulvinar mauris nibh sed enim. Sed consequat pretium nisi non
+        ullamcorper. In ac nisl tincidunt, maximus turpis in, vulputate erat. Curabitur ut rhoncus enim.
+        Aliquam erat volutpat. Maecenas nisi lacus, aliquam ac purus sit amet, tincidunt congue justo.
+        Mauris justo nunc, condimentum non sapien a, rhoncus hendrerit libero. Nullam volutpat ipsum
+        et diam ultricies posuere. Donec aliquet orci ac justo tempor mattis. Nunc faucibus tortor
+        a sem sollicitudin, quis aliquet massa semper.
+    </string>
+    <string name="parrafo_dam">
+        Qué es Dam<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tortor augue, convallis
+        interdum nisl vel, commodo ornare leo. Maecenas iaculis vestibulum dui ac faucibus. Maecenas
+        convallis nibh a elit rhoncus placerat. Donec bibendum justo non turpis luctus tincidunt.
+        Mauris venenatis leo non mi elementum finibus. Aenean tincidunt ante ac tortor dictum auctor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non cursus diam. Nulla sit
+        amet tortor gravida, ullamcorper nibh sed, vehicula erat. Etiam tincidunt quis tortor at
+        ultrices.<br/>
+        Quisque vel nulla at erat congue pellentesque eu eu sem. Curabitur et blandit lacus.
+        Suspendisse at nisi porttitor, semper nulla vel, vestibulum lorem. Nunc in pulvinar est.
+        Aliquam erat volutpat. Donec faucibus lobortis iaculis. Donec viverra fermentum sapien at
+        accumsan. Quisque pretium enim venenatis, interdum risus ut, eleifend neque. Nam vulputate
+        iaculis elit. Pellentesque commodo leo libero, ac accumsan magna facilisis a.<br/>
+        Sed ac leo nisi. Curabitur condimentum ligula in risus efficitur facilisis. Vestibulum in
+        ante velit. Pellentesque id vestibulum tellus. Fusce suscipit, sem rutrum efficitur scelerisque,
+        quam felis venenatis dolor, a pulvinar mauris nibh sed enim. Sed consequat pretium nisi non
+        ullamcorper. In ac nisl tincidunt, maximus turpis in, vulputate erat. Curabitur ut rhoncus enim.
+        Aliquam erat volutpat. Maecenas nisi lacus, aliquam ac purus sit amet, tincidunt congue justo.
+        Mauris justo nunc, condimentum non sapien a, rhoncus hendrerit libero. Nullam volutpat ipsum
+        et diam ultricies posuere. Donec aliquet orci ac justo tempor mattis. Nunc faucibus tortor
+        a sem sollicitudin, quis aliquet massa semper.
+    </string>
+    <string name="parrafo_daw">
+        Qué es Daw<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tortor augue, convallis
+        interdum nisl vel, commodo ornare leo. Maecenas iaculis vestibulum dui ac faucibus. Maecenas
+        convallis nibh a elit rhoncus placerat. Donec bibendum justo non turpis luctus tincidunt.
+        Mauris venenatis leo non mi elementum finibus. Aenean tincidunt ante ac tortor dictum auctor.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non cursus diam. Nulla sit
+        amet tortor gravida, ullamcorper nibh sed, vehicula erat. Etiam tincidunt quis tortor at
+        ultrices.<br/>
+        Quisque vel nulla at erat congue pellentesque eu eu sem. Curabitur et blandit lacus.
+        Suspendisse at nisi porttitor, semper nulla vel, vestibulum lorem. Nunc in pulvinar est.
+        Aliquam erat volutpat. Donec faucibus lobortis iaculis. Donec viverra fermentum sapien at
+        accumsan. Quisque pretium enim venenatis, interdum risus ut, eleifend neque. Nam vulputate
+        iaculis elit. Pellentesque commodo leo libero, ac accumsan magna facilisis a.<br/>
+        Sed ac leo nisi. Curabitur condimentum ligula in risus efficitur facilisis. Vestibulum in
+        ante velit. Pellentesque id vestibulum tellus. Fusce suscipit, sem rutrum efficitur scelerisque,
+        quam felis venenatis dolor, a pulvinar mauris nibh sed enim. Sed consequat pretium nisi non
+        ullamcorper. In ac nisl tincidunt, maximus turpis in, vulputate erat. Curabitur ut rhoncus enim.
+        Aliquam erat volutpat. Maecenas nisi lacus, aliquam ac purus sit amet, tincidunt congue justo.
+        Mauris justo nunc, condimentum non sapien a, rhoncus hendrerit libero. Nullam volutpat ipsum
+        et diam ultricies posuere. Donec aliquet orci ac justo tempor mattis. Nunc faucibus tortor
+        a sem sollicitudin, quis aliquet massa semper.
+    </string>
+</resources>
